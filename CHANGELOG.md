@@ -2,7 +2,7 @@
 
 🐛 Bugs solved:
 
-- Sidebar content design bug solved
+- Sidebar contet design bug solved
 
 
 ## [1.2.1] 2022-11-01
