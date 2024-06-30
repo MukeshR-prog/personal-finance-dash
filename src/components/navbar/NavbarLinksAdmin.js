@@ -96,10 +96,10 @@ export default function HeaderLinks(props) {
 					</Flex>
 					<Flex flexDirection="column">
 						<MenuItem _hover={{ bg: 'none' }} _focus={{ bg: 'none' }} px="0" borderRadius="8px" mb="10px">
-							<ItemContent info="Horizon UI Dashboard PRO" aName="Alicia" />
+							<ItemContent info="Muki UI Dashboard" aName="Mukesh" />
 						</MenuItem>
 						<MenuItem _hover={{ bg: 'none' }} _focus={{ bg: 'none' }} px="0" borderRadius="8px" mb="10px">
-							<ItemContent info="Horizon Design System Free" aName="Josh Henry" />
+							<ItemContent info="Navani Design System Free" aName="Navani " />
 						</MenuItem>
 					</Flex>
 				</MenuList>
@@ -130,14 +130,14 @@ export default function HeaderLinks(props) {
           <Flex flexDirection='column'>
             <Link
               w='100%'
-              href='https://horizon-ui.com/pro?ref=horizon-chakra-free'>
+              >
               <Button w='100%' h='44px' mb='10px' variant='brand'>
-                Buy Horizon UI PRO
+                Buy  UI PRO
               </Button>
             </Link>
             <Link
               w='100%'
-              href='https://horizon-ui.com/documentation/docs/introduction?ref=horizon-chakra-free'>
+              >
               <Button
                 w='100%'
                 h='44px'
@@ -150,14 +150,14 @@ export default function HeaderLinks(props) {
             </Link>
             <Link
               w='100%'
-              href='https://github.com/horizon-ui/horizon-ui-chakra'>
+              >
               <Button
                 w='100%'
                 h='44px'
                 variant='no-hover'
                 color={textColor}
                 bg='transparent'>
-                Try Horizon Free
+                Try MUkiNavani
               </Button>
             </Link>
           </Flex>
@@ -171,7 +171,7 @@ export default function HeaderLinks(props) {
 					<Avatar
 						_hover={{ cursor: 'pointer' }}
 						color="white"
-						name="Adela Parkson"
+						name="Mukesh"
 						bg="#11047A"
 						size="sm"
 						w="40px"
@@ -190,7 +190,7 @@ export default function HeaderLinks(props) {
 							fontSize="sm"
 							fontWeight="700"
 							color={textColor}>
-							👋&nbsp; Hey, Adela
+							👋&nbsp; Hey, Mukesh
 						</Text>
 					</Flex>
 					<Flex flexDirection="column" p="10px">

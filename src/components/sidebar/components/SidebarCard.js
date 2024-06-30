@@ -55,18 +55,8 @@ export default function SidebarDocs() {
           mb='6px'>
           Upgrade to PRO
         </Text>
-        <Text
-          fontSize='14px'
-          color={"white"}
-          fontWeight='500'
-          px='10px'
-          mb='6px'
-          textAlign='center'>
-          Improve your development process and start doing more with Horizon UI
-          PRO!
-        </Text>
       </Flex>
-      <Link href='https://horizon-ui.com/pro?ref=horizon-chakra-free'>
+    
         <Button
           bg='whiteAlpha.300'
           _hover={{ bg: "whiteAlpha.200" }}
@@ -79,7 +69,6 @@ export default function SidebarDocs() {
           mx='auto'>
           Upgrade to PRO
         </Button>
-      </Link>
     </Flex>
   );
 }

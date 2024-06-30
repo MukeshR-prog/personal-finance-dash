@@ -80,7 +80,7 @@ export default function UserReports() {
             />
           }
           name='Earnings'
-          value='$350.4'
+          value='₹ 10000'
         />
         <MiniStatistics
           startContent={
@@ -94,9 +94,9 @@ export default function UserReports() {
             />
           }
           name='Spend this month'
-          value='$642.39'
+          value='₹ 20000'
         />
-        <MiniStatistics growth='+23%' name='Sales' value='$574.34' />
+        <MiniStatistics growth='+23%' name='Sales' value='₹ 57400' />
         <MiniStatistics
           endContent={
             <Flex me='-16px' mt='10px'>
@@ -116,7 +116,7 @@ export default function UserReports() {
             </Flex>
           }
           name='Your balance'
-          value='$1,000'
+          value='₹300000'
         />
         <MiniStatistics
           startContent={
